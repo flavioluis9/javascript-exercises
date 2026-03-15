@@ -1,0 +1,15 @@
+Function repeatString (phrase, times)
+
+Initialize repeatedString as an empty string
+
+
+Loop:
+
+Start at 0
+
+While i is lower than times, increment i by 1
+
+Do continuously add phrase to repeatedString
+
+
+Return repeatedString

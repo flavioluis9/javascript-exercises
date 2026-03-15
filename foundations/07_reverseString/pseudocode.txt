@@ -1,17 +1,15 @@
 Function reverseString (string input)
 
-Initialize reversedString variable
+Initialize reversedString as an empty string
 
 
 Loop:
 
 Start at the last index of the string
 
-While index is larger than 0
+While index is larger than 0, decrement index by 1
 
-Decrement index by 1
-
-Add string index letter to reversedString
+Do continuously add string index letter to reversedString
 
 
 Return reversedString
