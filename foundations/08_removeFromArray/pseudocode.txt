@@ -1,0 +1,4 @@
+Function removeFromArray (array, ...target)
+
+Return array filtered where item is NOT the target that includes item
+
